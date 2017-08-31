@@ -1,6 +1,7 @@
 {
   "name": "moment-mini",
   "version": "2.18.1",
+  "typings": "./moment.mini.d.ts",
   "description": "Parse, validate, manipulate, and display dates",
   "main": "moment.min.js",
   "scripts": {
