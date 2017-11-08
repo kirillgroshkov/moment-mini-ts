@@ -1,7 +1,11 @@
-[![npm version](https://badge.fury.io/js/moment-mini.svg)](https://badge.fury.io/js/moment-mini)
+[![npm version](https://badge.fury.io/js/moment-mini-ts.svg)](https://badge.fury.io/js/moment-mini-ts)
 
 # moment-mini
 
-This package exposes [moment.min.js](https://github.com/moment/moment/blob/develop/min/moment.min.js) as an npm module so you can import/require the minified version of moment into your projects without the bloat of the locales.
+*Now with typings!*
 
-This package will follow the [moment.js releases](https://github.com/moment/moment/releases).
+    npm i moment-mini-ts
+    
+    import * as moment from 'moment-mini-ts'
+
+This package exposes [moment.min.js](https://github.com/moment/moment/blob/develop/min/moment.min.js) as an npm module so you can import/require the minified version of moment into your projects without the bloat of the locales.

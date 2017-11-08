@@ -1,0 +1,14 @@
+
+/.idea
+*.iml
+/.classpath
+/.project
+/.settings
+.DS_Store
+/*.log
+/log.txt
+/.sass-cache
+/.config
+/.cache
+/.gitconfig
+/.vscode

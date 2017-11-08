@@ -1,18 +1,19 @@
 {
-  "name": "moment-mini",
+  "name": "moment-mini-ts",
   "version": "2.18.1",
   "typings": "./moment.mini.d.ts",
-  "description": "Parse, validate, manipulate, and display dates",
+  "description": "moment.js with typings",
   "main": "moment.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sankarseran/moment-mini.git"
+    "url": "git+https://github.com/kirillgroshkov/moment-mini-ts.git"
   },
   "keywords": [
     "moment",
+    "typings",
     "date",
     "time",
     "parse",
@@ -25,7 +26,7 @@
   "author": "Tim Wood, Iskren Chernev, Moment.js contributors",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sankarseran/moment-mini/issues"
+    "url": "https://github.com/kirillgroshkov/moment-mini-ts/issues"
   },
-  "homepage": "https://github.com/sankarseran/moment-mini#readme"
+  "homepage": "https://github.com/kirillgroshkov/moment-mini-ts#readme"
 }
